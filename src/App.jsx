@@ -9,8 +9,7 @@ import {
   useParams,
 } from "react-router-dom";
 import "./App.css";
-
-const API = "http://localhost:8080";
+const API = "https://moviebooking-backend-quxf.onrender.com";
 
 function Navbar() {
   return (
